@@ -1,0 +1,5 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+not_in_package*
+Untitled*
+README.md

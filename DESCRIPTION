@@ -1,0 +1,8 @@
+Package: asitis
+Type: Package
+Title: visual style of company ASITIS s.r.o., including ggplot2 theme and colour scheme
+Version: 0.4.4
+Date: 2024-10-17
+Author: Filip Kratos
+Imports: ggplot2, grid, showtext, readxl
+RoxygenNote: 7.3.1
